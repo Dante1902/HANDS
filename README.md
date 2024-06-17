@@ -20,4 +20,4 @@ import time
 
 Файл ***labels.txt*** хранит в себе метки классов, которые используются для отображения результатов предсказаний модели
 
-Фрагмент обучения модели представлен в этом файле + keras_model.py ([keras_model.py](https://github.com/Dante1902/HANDS/blob/main/keras_model.py))
+Фрагмент обучения модели представлен в этом файле ([keras_model.py](https://github.com/Dante1902/HANDS/blob/main/keras_model.py))

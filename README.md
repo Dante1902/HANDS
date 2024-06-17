@@ -14,3 +14,7 @@ import numpy
 import math
 import time
 ```
+
+---
+
+Файл ***keras_model.h5*** это готовая обученная модель для распознавания жестов рук

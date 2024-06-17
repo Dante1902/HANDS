@@ -9,7 +9,7 @@
 ```python
 import cv2
 import cvzone.HandTrackingModule
-import Cvzone.ClassificationModule
+import cvzone.ClassificationModule
 import numpy
 import math
 import time
